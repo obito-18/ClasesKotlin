@@ -9,7 +9,7 @@ import com.cibertec.cibertecapp.R
 
 
 class CursosViewHolder(inflater: LayoutInflater, viewGroup: ViewGroup)
-    : RecyclerView.ViewHolder(inflater.inflate(R.layout.item_cursos, viewGroup, false))
+    : RecyclerView.ViewHolder(inflater.inflate(R.layout.item_curso, viewGroup, false))
 {
     private var imgCurso : ImageView? = null
 

@@ -10,7 +10,7 @@ import com.cibertec.cibertecapp.R
 class CursosActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_cursoss)
+        setContentView(R.layout.activity_cursos)
 
         val recycleCursos = findViewById<RecyclerView>(R.id.recycleCursos)
 
